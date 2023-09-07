@@ -8,4 +8,3 @@ Video Series: [Ben Eater's YouTube]()
 # Members
 [Pritipriya Dasbehera](https://github.com/pritipriya-dasbehera) (Mentor, Project head) - Idea \
 Someone (To be assigned) - Code, Algorithm, Working Idea \
-
