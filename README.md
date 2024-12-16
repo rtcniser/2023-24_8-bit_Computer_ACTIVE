@@ -7,7 +7,7 @@
 		<div style="width: 80%; margin: 20px auto;"  >
             <h1 style="color:white;">8-bit Computer</h1>  <h3 style="color:black; margin: -10px auto;"> Learning how a computer works</h3>
         </div>
-	</header>
+</header>
 
 In this project we build a programmable 8-bit computer from scratch on breadboards using only simple logic gates. Ben Eater has a great [video series](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) and [website blog](https://eater.net/8bit) on this, which we followed for the most part. We learn about different components that go into making a computer, how different 'parts' talk to each other and they synchronise everything. This is good way to learn about electronics handling. Once developed it can be used to teach functioning of the computer to other students as well. 
 
@@ -75,13 +75,20 @@ Related blogs and resources used during the project.
 
 ---
 
-### Team Members
+### Team Members (as on 2024)
 
-1. [Abhishek](abhishek.2022@niser.ac.in) | Team Member | 2nd Year Int. MSc. School of Biological Sciences
-2. [Suraj Kumar Behera]() | Team Member | 2nd Year Int. MSc. School of Biological Sciences
-3. [Prasad Murmu ]() | Team Member | 2nd Year Int. MSc. School of Physical Sciences
-4. [Pritipriya Dasbehera ]() | Project Lead | 3rd Year Int. MSc. School of Physical Sciences
+1. [Abhishek](abhishek.2022@niser.ac.in) | Team Member | 3rd Year Int. MSc. School of Biological Sciences
+2. [Suraj Kumar Behera](surajkumar.behera@niser.ac.in) | Team Member | 3rd Year Int. MSc. School of Biological Sciences
+3. [Prasad Murmu ](prasad.murmu@niser.ac.in) | Team Member | 3rd Year Int. MSc. School of Physical Sciences
+4. [Pritipriya Dasbehera ](pritipriya.dasbehera@niser.ac.in) | Project Lead | 4th Year Int. MSc. School of Physical Sciences
 
+
+## For future members interested in continuing the project
+1. The essential ICs, currently developed breadboards with components, and power plug can be found in the box named "8-bit comp." somewhere in the Club. (contact the president)
+2. Read the Ben eater blog/ watch the video series and check each of the completed modules and make sure everything is working fine.
+3. Continue the remaining modules.
+4. **We had faulty 74LS189 ICs which we have changed for the good working ones (2 nos). In case the faulty one is misplaced and ends up in the stack remeber, faulty one heats up and doesn't function properly**
+5. Build a transparent encasing out of acrylic/plexiglass for safety and showcase.
 
 <div style="background:  #000000; color: #ffffff; padding: 1% 0% 3% 0%; " >
 	<div style="width: 80%; margin: 20px auto;" >
