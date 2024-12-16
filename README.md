@@ -1,4 +1,3 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 <header class="item" style="
 		background-color: rgb(200, 200, 200); /* For browsers that do not support gradients */
 		background-image: radial-gradient(rgb(200, 200, 200), rgb(100, 100, 100)); 
